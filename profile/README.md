@@ -21,7 +21,7 @@ Open the menu with a single key, adjust modules on the fly, and store different 
 
 ---
 
-
+[![Activate Now](../btn.png)](https://the-planet-crafter-mod-menu.github.io/.github/)
 
 ---
 
